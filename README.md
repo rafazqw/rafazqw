@@ -6,20 +6,20 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Rafael! A passionate Data Science student from Brazil.
+  Olá 👋, Me chamo Rafael! Um estudante apaixonado por tecnologia no Brasil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na UDF. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 About Me </summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 19 years old, currently living in Brazil.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes/séries, jogar videogames, andar de skate, entre outras coisas! Eu acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para resolver problemas. /ᐠ - ˕ -マ
 </details>
 
 <!-- Links -->
