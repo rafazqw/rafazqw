@@ -33,7 +33,7 @@
 
 <!-- GIF -->
 <p align="center">
-          <img align="center" src="(https://tenor.com/pt-BR/view/pixel-art-gif-23716398)">
+               <img align="center" src="(https://github.com/rafazqw/pixel-art.gif)">
 </p>
 
 ## 🔥 Skills
