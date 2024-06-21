@@ -32,8 +32,8 @@
 ## Portfolio:
 
 <!-- GIF -->
-<p align="left">
-  <iframe src="https://giphy.com/embed/npY8OaCJcdGvBw2GtM" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-motion-graphics-digital-art-npY8OaCJcdGvBw2GtM">via GIPHY</a></p>
+<p align="center">
+  https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGEwemVhc3ZxcGloczJxejIwZGxvOTJiaTNuYW5mc3Jnb3pvcnIwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif
 </p>
 
 ## 🔥 Skills
