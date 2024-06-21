@@ -33,7 +33,7 @@
 
 <!-- GIF -->
 <p align="center">
-                <img align="center" src="![pixel-art](https://github.com/rafazqw/rafazqw/assets/162379035/4df18c3f-48b9-4277-a9fb-03a930ade419)">
+                <img align="center" src="https://github.com/rafazqw/rafazqw/assets/162379035/4df18c3f-48b9-4277-a9fb-03a930ade419" alt="Imagem">
 
 </p>
 
