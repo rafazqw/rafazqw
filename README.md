@@ -33,7 +33,7 @@
 
 <!-- GIF -->
 <p align="center">
-          <img align="center" src="(https://github.com/rafazqw/rafazqw/pixel-art.gif" alt="Imagem">
+          <img align="center" src="(https://github.com/rafazqw/rafazqw/pixel-art.gif">
 </p>
 
 ## 🔥 Skills
