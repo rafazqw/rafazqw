@@ -8,16 +8,16 @@
 <p>
   Olá 👋, Me chamo Rafael! Um estudante apaixonado por tecnologia no Brasil.
 
-  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na UDF. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na UDF.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 Estou buscando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com Desenvolvimento de Software.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 About Me </summary>
 
-  - 💬 I am 19 years old, currently living in Brazil.
+  - 💬 Eu tenho 19 anos, moro em Brasília-DF.
 
   - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes/séries, jogar videogames, andar de skate, entre outras coisas! Eu acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para resolver problemas. /ᐠ - ˕ -マ
 </details>
