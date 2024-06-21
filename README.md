@@ -33,7 +33,8 @@
 
 <!-- GIF -->
 <p align="center">
-  https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGEwemVhc3ZxcGloczJxejIwZGxvOTJiaTNuYW5mc3Jnb3pvcnIwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif
+   ![pixel-art](https://github.com/rafazqw/rafazqw/assets/162379035/c8378ced-67f4-4ee4-a6f9-64edce1888c6)
+
 </p>
 
 ## 🔥 Skills
